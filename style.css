@@ -1,0 +1,93 @@
+body {
+    margin: 40;
+    background-color: rgb(161, 103, 92);
+    font-family: 'work sans', sans-serif;
+    font-weight: 100;
+}
+
+.container {
+    width: 80;
+    font-weight: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header {
+    background: rgb(53, 34, 34);
+}
+
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 250px;
+} 
+
+.pic{
+    width: 80px;
+}
+
+
+.logo {
+ width: 20px;
+ 
+}
+
+.content {
+text-align: center;
+margin-top: 100px;
+padding-bottom: 40px;
+}
+
+.about {
+    
+    margin-bottom: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+
+
+#footer {
+    text-align: center;
+    list-style: none;
+    background-color: rgb(41, 22, 22);
+}
+
+
+.logo1 {
+     margin-top: 0px;
+    list-style: none;
+    display: inline-block;
+    margin: 0px 35px;
+
+}
+
+.project {
+    text-align: center;
+    list-style: none;
+    padding-bottom: 40px;
+}
+
+.cs {
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-right: 40;
+    list-style: none;
+}
+
+.logo2 {
+    width: 300px;
+}
+
+.logo3 {
+    width: 350px;
+   text-align: center;
+}
+
